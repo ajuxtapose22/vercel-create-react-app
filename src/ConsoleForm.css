@@ -1,0 +1,27 @@
+form {
+    background-color: bisque;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 12px;
+}
+
+.name_div {
+    background-color: rgb(80, 191, 219);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.message_div {
+    background-color: rgb(36, 151, 212);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+label {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 9px;
+    margin: 9px;
+}
